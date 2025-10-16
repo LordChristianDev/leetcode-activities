@@ -1,7 +1,7 @@
 
 # LeetCode Activities
 
-This repository all of my leetcode answers, it showcases everything that I have learned throught my coding journey. Hopefully this is interesting to you as it is to me. 
+This repository all of my leetcode answers, it showcases everything that I have learned through out my coding journey. Hopefully this is interesting to you as it is to me. 
 
 
 ## 🛠 All my LeetCode Answers
